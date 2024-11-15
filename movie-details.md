@@ -15,3 +15,5 @@
 3) **Convert the Code (`movie-details.py`) with Data Extraction Instructions:**
    - Follow the instructions in the video to modify the code (`movie-details.py`), adding data extraction logic based on the website you’re working with.
    - Use ChatGPT to help generate the complete code based on your requirements.
+
+   Watch the video here: [Web Scraping Tutorial](https://youtu.be/3-agWIg3Y5w)
