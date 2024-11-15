@@ -1,11 +1,17 @@
-1) Download and Install Pythong and VS code from:
-https://www.python.org/downloads/
-https://code.visualstudio.com/
+# Setup Instructions for Web Scraping Project
 
-2) In VS code open terminal and run below commands:
-pip install requests
-pip install beautifulsoup4
-pip install pandas
+1) **Download and Install Python and VS Code:**
+   - Download Python from [here](https://www.python.org/downloads/)
+   - Download Visual Studio Code from [here](https://code.visualstudio.com/)
 
+2) **Install Required Libraries:**
+   - Open the terminal in VS Code and run the following commands:
+     ```
+     pip install requests
+     pip install beautifulsoup4
+     pip install pandas
+     ```
 
-3) As explained in the video convert code movie-details.py in with data extraction instructions based on your website and with the help of chatGPT generate complete code.
+3) **Convert the Code (`movie-details.py`) with Data Extraction Instructions:**
+   - Follow the instructions in the video to modify the code (`movie-details.py`), adding data extraction logic based on the website you’re working with.
+   - Use ChatGPT to help generate the complete code based on your requirements.
